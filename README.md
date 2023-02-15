@@ -1,8 +1,8 @@
-# About Me
+# 👋 Hi! I'm Ryan.
 
 * Consulting Architect @ [Red Hat] since August 2021
-* Previously an Enterprise Architect and SME at [AceInfo Solutions] a [Dovel] Company, Full-Stack App Dev @ [Synergy], Web/GIS Dev @ [Innovative Management Concepts (IMC], Automation Enginer and System Administrator (RHEL) @ [AceInfo].
-* [Red Hat Certified Architect (RHCA)][Red Hat Certification Link], [Red Hat Certified Engineer (RHCE)][Red Hat Certification Link], [CompTIA Security+]
+* Previously an Enterprise Architect and SME @ [AceInfo Solutions] a [Dovel] Company, Full-Stack App Dev @ [Synergy], Web/GIS Dev @ [Innovative Management Concepts (IMC)], Automation Enginer and System Administrator (RHEL) @ [AceInfo].
+* [Red Hat Certified Architect (RHCA)][Red Hat Certification Link], [Red Hat Certified Engineer (RHCE)][Red Hat Certification Link], and [CompTIA Security+]
 
 [AceInfo Solutions]: https://www.aceinfosolutions.com
 [CompTIA Security+]: https://www.certmetrics.com/comptia/public/verification.aspx?code=WDVGFMFM33FQCV3X
