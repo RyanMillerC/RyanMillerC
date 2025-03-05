@@ -5,7 +5,6 @@
 
 - Currently an **IT Specialist** @ [U.S. Department of the Treasury] since Dec. 2023
 - Previously
-  - **Cloud Operations Specialist** @ [CACI]
   - **AppDev Architect** @ [Red Hat]
   - **Enterprise Architect** and **SME (DevSecOps)** @ [Dovel]
   - **Full-Stack Application Developer** @ [Synergy]
