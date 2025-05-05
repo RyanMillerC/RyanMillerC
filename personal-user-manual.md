@@ -103,7 +103,7 @@ tr and attempt to use % values for the td.
       <ul>
         <li>
           <strong>Subject Matter Expert</strong> in
-          AppDev
+          AppDev,
           Ansible (AAP),
           Containers,
           Kubernetes,
