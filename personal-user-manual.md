@@ -41,8 +41,8 @@ tr and attempt to use % values for the td.
         <li>Concept from the <a href="https://openpracticelibrary.com">Open Practice Library</a></li>
       </ul>
     </td>
-    <td width="340px">
-      <img alt="Photo of Ryan wearing a shirt with complicated patterns" src="pics/me.png" />
+    <td align="center" width="340px">
+      <img alt="Photo of Ryan wearing a shirt with complicated patterns" height="450px" src="pics/me.png" />
     </td>
   </tr>
 </table>
