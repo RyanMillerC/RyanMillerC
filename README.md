@@ -35,14 +35,6 @@
 
 ## 🚀 Tech Stack
 
-### Deployment
-
-<div align="left">
-   <img src="https://skillicons.dev/icons?i=ansible" height="40" alt="ansible logo"  />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-</div>
-
 ### CI/CD, DevOps, and GitOps
 
 <div align="left">
@@ -53,6 +45,14 @@
    <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
    <img width="12" />
    <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+</div>
+
+### Deployment
+
+<div align="left">
+   <img src="https://skillicons.dev/icons?i=ansible" height="40" alt="ansible logo"  />
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
 </div>
 
 ### Editor
