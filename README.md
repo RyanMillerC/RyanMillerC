@@ -95,7 +95,7 @@
 
 ## 🔥 My Stats
 
-[![RyanMillerC's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=RyanMillerC&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![RyanMillerC's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=RyanMillerc&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![RyanMillerC's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=RyanMillerC&show_icons=true&theme=github_dark&hide_rank=true&include_all_commits=true&cache_seconds=1800&hide=contribs#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![RyanMillerC's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=RyanMillerc&show_icons=true&theme=default&hide_rank=true&include_all_commits=true&cache_seconds=1800&hide=contribs#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RyanMillerC.RyanMillerC&)
