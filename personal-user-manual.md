@@ -89,14 +89,14 @@ tr and attempt to use % values for the td.
     <td width="850px">
       <h1 id="work-experience">Work Experience</h1>
       <ul>
-        <li><strong>Senior Architect and Technical Lead</strong></li>
+        <li><strong>Senior Resident Architect</strong></li>
         <li>10 years professional experience</li>
         <ul>
-            <li>AppDev, SysOps, DevOps, Platform Engineering, and Architect roles</li>
-            <li>Public sector, big enterprise, and smaller teams</li>
+            <li>AppDev, DevOps, Platform Engineering, and SRE roles</li>
+            <li>Experienced with public sector, big enterprises, and smaller teams</li>
         </ul>
         <li>5 years experience in leadership roles</li>
-        <li>Worked for U.S. Government 🏛️, Red Hat, and small/medium-sized Gov. contractors</li>
+        <li>Previously worked for U.S. Government 🏛️, Red Hat, and small/medium-sized Gov. contractors</li>
       </ul>
     </td>
   </tr>
@@ -145,7 +145,7 @@ tr and attempt to use % values for the td.
 
 <table align="center">
   <tr height="500px">
-    <td width="500px">
+    <td width="550px">
       <h1 id="certifications">Certifications</h1>
       <ul>
         <li><a href="https://www.credly.com/badges/a2465e45-c128-4a74-b16b-fc0fcfefade4">AWS Certified Solutions Architect - Associate</a></li>
@@ -173,7 +173,7 @@ tr and attempt to use % values for the td.
 
 <table align="center">
   <tr height="500px">
-    <td width="500px">
+    <td width="550px">
       <h1 id="location">Location</h1>
       <ul>
         <li>Remote, located in West Virginia (WV)</li>
@@ -197,7 +197,7 @@ tr and attempt to use % values for the td.
 
 <table align="center">
   <tr height="500px">
-    <td width="500px">
+    <td width="550px">
       <h1 id="scheduling-and-meetings">Scheduling and Meetings</h1>
       <ul>
         <li><strong>Eastern Time Zone (EST/EDT)</strong></li>
@@ -223,7 +223,7 @@ tr and attempt to use % values for the td.
         <li>Wear fun tee shirts everyday ➡️️️</li>
         <li>Love Mexican food 🌮</li>
         <li>Have a tattoo of a Bash fork bomb <code>:(){ :|:&amp; };:</code></li>
-        <li>Once was part of an office group that won ~$50,000 in a lottery pool 🍀</li>
+        <li>I'm lucky 🍀 - Once won ~$50,000 in an office lottery pool</li>
         <li>Watched <em>The Office (US)</em> TV series at least 3 times through</li>
       </ul>
     </td>
@@ -244,7 +244,7 @@ tr and attempt to use % values for the td.
           Worked on an iPad app for U.S. Coast Guard vessel inspections
           <ul>
             <li>React Native with .NET Framework (C#) backend</li>
-            <li>Authentication via virtual key derived from a user’s physical CAC (smart-card)! 🔑</li>
+            <li>Authentication via virtual key derived from a user’s physical smart-card! 🔑</li>
           </ul>
         </li>
         <li>
@@ -260,7 +260,7 @@ tr and attempt to use % values for the td.
             <li><a href="https://github.com/RyanMillerC/poke-line">poke-line</a> - Add Pokémon to Emacs!</li>
           </ul>
         </li>
-        <li>Made a Google Chat bot based off early-2000's Microsoft Office <i>Clippy</i>. (His name is <i>Certy</i>.)</li>
+        <li>Made a Google Chat bot based off early-2000's Microsoft Office <i>Clippy</i>. (His name is <i>Certy</i>!)</li>
       </ul>
     </td>
   </tr>
