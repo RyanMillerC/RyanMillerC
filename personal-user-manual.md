@@ -18,6 +18,14 @@ tr and attempt to use % values for the td.
 
 -->
 
+---
+
+<div align="center">
+  <b>This reads best on desktop or mobile landscape. ⤵️</b>
+</div>
+
+---
+
 <table align="center">
   <tr height="500px">
     <td width="510px">
@@ -103,7 +111,7 @@ tr and attempt to use % values for the td.
       <ul>
         <li>
           <strong>Subject Matter Expert</strong> in
-          AppDev
+          AppDev,
           Ansible (AAP),
           Containers,
           Kubernetes,
