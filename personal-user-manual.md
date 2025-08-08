@@ -90,7 +90,7 @@ tr and attempt to use % values for the td.
     <td width="850px">
       <h1 id="work-experience">Professional Experience</h1>
       <ul>
-        <li>Currently a <strong>Senior Resident Services Architect (RSA)</strong> @ HashiCorp, an IBM Company</li>
+        <li><strong>Senior Resident Services Architect (RSA)</strong> @ HashiCorp, an IBM Company</li>
         <li>~10 years professional experience</li>
         <li>~5 years experience in leadership roles</li>
         <li>Led IT service delivery across Aeronautics, Commercial, Financial, and Public Sector clients</li>
