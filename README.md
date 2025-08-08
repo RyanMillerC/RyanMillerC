@@ -24,12 +24,14 @@
 
 ## 👨🏻‍💻 About Ryan
 
-* Currently a Senior Platform Architect
-* 10 years professional experience
-    * AppDev, DevOps, Platform Engineering, and SRE roles
-* 5 years experience in technical leadership roles
-* Experienced with public sector, big enterprises, and smaller teams
-* AWS, Red Hat, and Security certifications
+* **Senior Resident Services Architect (RSA)** @ HashiCorp, an IBM Company
+* ~10 years professional experience
+* ~5 years experience in leadership roles
+* Led IT service delivery across Aeronautics, Commercial, Financial, and Public Sector clients
+* Previously worked for the U.S. Federal Government 🏛️, Red Hat, and small/medium-sized I.T. contractors
+* Wear many hats 🧢 (AppDev, DevOps, Platform Engineering, and SRE)
+
+More about me: [Personal User Manual](https://github.com/RyanMillerC/RyanMillerC/blob/main/personal-user-manual.md)
 
 ###
 
