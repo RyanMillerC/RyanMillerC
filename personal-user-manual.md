@@ -149,7 +149,6 @@ tr and attempt to use % values for the td.
   <tr height="500px">
     <td width="550px">
       <h1 id="certifications">Certifications</h1>
-      (Some of these are expired, but I want to renew them. 🥲)
       <ul>
         <li><a href="https://www.credly.com/badges/a2465e45-c128-4a74-b16b-fc0fcfefade4">AWS Certified Solutions Architect - Associate</a></li>
         <li><a href="https://www.credly.com/badges/bdcebd68-0347-4927-993a-2829a50b6e0b">CompTIA Security+</a></li>
@@ -165,6 +164,8 @@ tr and attempt to use % values for the td.
         </li>
         <li><a href="https://www.credly.com/badges/cce07910-a6bf-425c-ac40-422e9eadc537">Red Hat Certified System Administrator (RHCSA)</a></li>
       </ul>
+      <br />
+      (Some of these are expired, but I want to renew them. 🥲)
     </td>
     <td width="300px" valign="middle" align="center">
       <img alt="Meme picturing Dory from Finding Nemo with the text: 'Just Keep Learning'" src="pics/learning.png" width="200px" />
