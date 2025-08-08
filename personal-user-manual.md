@@ -133,6 +133,7 @@ tr and attempt to use % values for the td.
           Red Hat Quay,
           and Red Hat SSO (Keycloak)
         </li>
+        <br />
         <li><strong>I don't know everything!</strong> My team works as a hive mind to fill gaps and validate edge cases. 💪
       </ul>
     </td>
