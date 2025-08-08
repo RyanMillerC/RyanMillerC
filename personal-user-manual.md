@@ -42,7 +42,7 @@ tr and attempt to use % values for the td.
       </ul>
     </td>
     <td align="center" width="340px">
-      <img alt="Photo of Ryan wearing a shirt with complicated patterns" height="450px" src="pics/me.png" />
+      <img alt="Photo of Ryan wearing a shirt with complicated patterns" height="450px" src="pics/me-with-background.png" />
     </td>
   </tr>
 </table>
