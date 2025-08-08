@@ -21,7 +21,9 @@ tr and attempt to use % values for the td.
 ---
 
 <div align="center">
-  <b>This reads best on desktop or mobile landscape. ⤵️</b>
+  <b>Reads best on desktop or mobile landscape. ⤵️</b>
+  <br />
+  (This was originally a slide deck that was converted to save bandwidth. It renders weird on small screens.)
 </div>
 
 ---
@@ -206,13 +208,12 @@ tr and attempt to use % values for the td.
       <ul>
         <li><strong>Eastern Time Zone (EST/EDT)</strong></li>
         <li>I try to schedule all meetings between <strong>9 AM - 4 PM ET</strong>.</li>
-        <li>Unless it’s an emergency, I won’t schedule or take meetings outside of those hours.</li>
-        <li>If I email or message you outside of your working hours, please don’t feel obligated to reply right away!</li>
         <ul>
           <li><strong>External clients:</strong> IBM won't let me share my calendar. I'll post my free times in a chat message or email.</li>
           <li><strong>IBM Internal:</strong> I keep my Outlook calendar up to date. If you see a free spot - grab it!</li>
         </ul>
-        <li>I'm usually split ~16 hours per week between two clients. I'll do my best to accommodate schedules!</li>
+        <li>I'm usually split ~16 hours per week between two clients. I do my best to accommodate schedules!</li>
+        <li>If I email or message you outside of your working hours, please don’t feel obligated to reply right away!</li>
       </ul>
     </td>
     <td width="300px" valign="middle" align="center">
