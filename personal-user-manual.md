@@ -74,7 +74,7 @@ tr and attempt to use % values for the td.
       <ul>
         <li>30s</li>
         <li>Married 👩‍❤️‍👨</li>
-        <li>1 kid 👶</li>
+        <li>2 kids 👦🏼 👶🏻</li>
         <li>2 dogs 🐶 🐶</li>
         <li>GitHub: <a href="https://github.com/RyanMillerC">@RyanMillerC</a></li>
         <li>I’m on <a href="https://www.linkedin.com/in/millerryanc">LinkedIn</a></li>
@@ -89,14 +89,14 @@ tr and attempt to use % values for the td.
     <td width="850px">
       <h1 id="work-experience">Work Experience</h1>
       <ul>
-        <li><strong>Senior Resident Architect</strong></li>
-        <li>10 years professional experience</li>
+        <!-- <li><strong>Senior Resident Architect</strong></li> -->
+        <li>10+ years professional experience</li>
         <ul>
-            <li>AppDev, DevOps, Platform Engineering, and SRE roles</li>
-            <li>Experienced with public sector, big enterprises, and smaller teams</li>
+            <li>AppDev, Architect, DevOps, Platform Engineering, and SRE roles</li>
+            <li>Experience with public sector, big enterprises, and smaller teams</li>
         </ul>
-        <li>5 years experience in leadership roles</li>
-        <li>Previously worked for U.S. Government 🏛️, Red Hat, and small/medium-sized Gov. contractors</li>
+        <li>5+ years experience in leadership roles</li>
+        <li>Previously worked for U.S. Federal Government 🏛️, Hashicorp, IBM, Red Hat, and misc. small/med gov. contractors</li>
       </ul>
     </td>
   </tr>
@@ -113,9 +113,10 @@ tr and attempt to use % values for the td.
           <strong>Subject Matter Expert</strong> in
           AppDev,
           Ansible (AAP),
+          Architecture Design and Implementation (Enterprise),
           Containers,
           Kubernetes,
-          Release Engineering (CI/CD),
+          Release Engineering (CI/CD, DevSecOps, GitOps),
           Red Hat OpenShift,
           RHEL,
           and Shell Scripting
