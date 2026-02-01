@@ -21,7 +21,9 @@ tr and attempt to use % values for the td.
 ---
 
 <div align="center">
-  <b>This reads best on desktop or mobile landscape. ⤵️</b>
+  <b>Reads best on desktop or mobile landscape. ⤵️</b>
+  <br />
+  (This was originally a slide deck that was converted to save bandwidth. It renders weird on small screens.)
 </div>
 
 ---
@@ -42,7 +44,7 @@ tr and attempt to use % values for the td.
       </ul>
     </td>
     <td align="center" width="340px">
-      <img alt="Photo of Ryan wearing a shirt with complicated patterns" height="450px" src="pics/me.png" />
+      <img alt="Photo of Ryan wearing a shirt with complicated patterns" height="450px" src="pics/me-with-background.png" />
     </td>
   </tr>
 </table>
@@ -79,6 +81,7 @@ tr and attempt to use % values for the td.
         <li>GitHub: <a href="https://github.com/RyanMillerC">@RyanMillerC</a></li>
         <li>I’m on <a href="https://www.linkedin.com/in/millerryanc">LinkedIn</a></li>
       </ul>
+    </td>
   </tr>
 </table>
 
@@ -87,16 +90,14 @@ tr and attempt to use % values for the td.
 <table align="center">
   <tr height="500px">
     <td width="850px">
-      <h1 id="work-experience">Work Experience</h1>
+      <h1 id="work-experience">Professional Experience</h1>
       <ul>
-        <li><strong>Senior Resident Architect</strong></li>
-        <li>10 years professional experience</li>
-        <ul>
-            <li>AppDev, DevOps, Platform Engineering, and SRE roles</li>
-            <li>Experienced with public sector, big enterprises, and smaller teams</li>
-        </ul>
-        <li>5 years experience in leadership roles</li>
-        <li>Previously worked for U.S. Government 🏛️, Red Hat, and small/medium-sized Gov. contractors</li>
+        <li><strong>Senior Resident Services Architect (RSA)</strong> @ HashiCorp, an IBM Company</li>
+        <li>~10 years professional experience</li>
+        <li>~5 years experience in leadership roles</li>
+        <li>Led IT service delivery across Aeronautics, Commercial, Financial, and Public Sector clients</li>
+        <li>Previously worked for the U.S. Federal Government 🏛️, Red Hat, and small/medium-sized I.T. contractors</li>
+        <li>Wear many hats 🧢 (AppDev, DevOps, Platform Engineering, and SRE)</li>
       </ul>
     </td>
   </tr>
@@ -111,10 +112,12 @@ tr and attempt to use % values for the td.
       <ul>
         <li>
           <strong>Subject Matter Expert</strong> in
-          AppDev,
           Ansible (AAP),
           Containers,
+          HashiCorp Terraform,
+          HashiCorp Vault,
           Kubernetes,
+          Platform Engineering (PaaS),
           Release Engineering (CI/CD),
           Red Hat OpenShift,
           RHEL,
@@ -123,16 +126,17 @@ tr and attempt to use % values for the td.
         <br />
         <li>
           <strong>Experienced</strong> with
+          AppDev,
           Amazon Web Services (AWS),
           Argo CD (OpenShift GitOps),
-          Hashicorp Terraform,
-          Hashicorp Vault,
           Helm,
           Red Hat ACM,
           Red Hat ACS,
           Red Hat Quay,
           and Red Hat SSO (Keycloak)
         </li>
+        <br />
+        <li><strong>I don't know everything!</strong> My team works as a hive mind to fill gaps and validate edge cases. 💪
       </ul>
     </td>
     <td width="300px" valign="middle" align="center">
@@ -162,6 +166,8 @@ tr and attempt to use % values for the td.
         </li>
         <li><a href="https://www.credly.com/badges/cce07910-a6bf-425c-ac40-422e9eadc537">Red Hat Certified System Administrator (RHCSA)</a></li>
       </ul>
+      <br />
+      (Some of these are expired, but I want to renew them. 🥲)
     </td>
     <td width="300px" valign="middle" align="center">
       <img alt="Meme picturing Dory from Finding Nemo with the text: 'Just Keep Learning'" src="pics/learning.png" width="200px" />
@@ -202,8 +208,11 @@ tr and attempt to use % values for the td.
       <ul>
         <li><strong>Eastern Time Zone (EST/EDT)</strong></li>
         <li>I try to schedule all meetings between <strong>9 AM - 4 PM ET</strong>.</li>
-        <li>Unless it’s an emergency, I won’t schedule or take meetings outside of those hours.</li>
-        <li>I keep my calendar up to date. <strong>If you see a free spot - grab it!</strong> 😎</li>
+        <ul>
+          <li><strong>External clients:</strong> IBM won't let me share my calendar. I'll post my free times in a chat message or email.</li>
+          <li><strong>IBM Internal:</strong> I keep my Outlook calendar up to date. If you see a free spot - grab it!</li>
+        </ul>
+        <li>I'm usually split ~16 hours per week between two clients. I do my best to accommodate schedules!</li>
         <li>If I email or message you outside of your working hours, please don’t feel obligated to reply right away!</li>
       </ul>
     </td>
@@ -241,14 +250,14 @@ tr and attempt to use % values for the td.
       <h1 id="cool-tech-stuff-ive-done">Cool Tech Stuff I’ve Done!</h1>
       <ul>
         <li>
-          Worked on an iPad app for U.S. Coast Guard vessel inspections
+          Built out an iPad app and backend for U.S. Coast Guard vessel inspections
           <ul>
             <li>React Native with .NET Framework (C#) backend</li>
             <li>Authentication via virtual key derived from a user’s physical smart-card! 🔑</li>
           </ul>
         </li>
         <li>
-          Built an OpenShift Operator
+          Created my own OpenShift Operator
           <ul>
             <li><a href="https://github.com/RyanMillerC/cat-facts-operator">cat-facts-operator</a> - An operator for all you cool cats and kittens! 😸</li>
           </ul>
