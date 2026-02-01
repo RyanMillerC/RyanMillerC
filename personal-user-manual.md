@@ -76,7 +76,7 @@ tr and attempt to use % values for the td.
       <ul>
         <li>30s</li>
         <li>Married 👩‍❤️‍👨</li>
-        <li>1 kid 👶</li>
+        <li>2 kids 👦🏼 👶🏻</li>
         <li>2 dogs 🐶 🐶</li>
         <li>GitHub: <a href="https://github.com/RyanMillerC">@RyanMillerC</a></li>
         <li>I’m on <a href="https://www.linkedin.com/in/millerryanc">LinkedIn</a></li>
@@ -92,12 +92,12 @@ tr and attempt to use % values for the td.
     <td width="850px">
       <h1 id="work-experience">Professional Experience</h1>
       <ul>
-        <li><strong>Senior Resident Services Architect (RSA)</strong> @ HashiCorp, an IBM Company</li>
-        <li>~10 years professional experience</li>
-        <li>~5 years experience in leadership roles</li>
-        <li>Led IT service delivery across Aeronautics, Commercial, Financial, and Public Sector clients</li>
-        <li>Previously worked for the U.S. Federal Government 🏛️, Red Hat, and small/medium-sized I.T. contractors</li>
-        <li>Wear many hats 🧢 (AppDev, DevOps, Platform Engineering, and SRE)</li>
+        <!-- <li><strong>Senior Resident Services Architect (RSA)</strong> @ HashiCorp, an IBM Company</li> -->
+        <li>10+ years professional experience</li>
+        <li>5+ years experience in leadership roles</li>
+        <li>Led IT service delivery across Aeronautics, Commercial, Financial, Healthcare, and Public Sector clients</li>
+        <li>Previously worked for the U.S. Federal Government 🏛️, Hashicorp, IBM, Red Hat, and small/med-sized I.T. contractors</li>
+        <li>Wear many hats 🧢 (AppDev, Architect, DevOps, Platform Engineering, and SRE)</li>
       </ul>
     </td>
   </tr>
@@ -114,11 +114,9 @@ tr and attempt to use % values for the td.
           <strong>Subject Matter Expert</strong> in
           Ansible (AAP),
           Containers,
-          HashiCorp Terraform,
-          HashiCorp Vault,
           Kubernetes,
           Platform Engineering (PaaS),
-          Release Engineering (CI/CD),
+          Release Engineering (CI/CD, DevSecOps, GitOps),
           Red Hat OpenShift,
           RHEL,
           and Shell Scripting
@@ -129,6 +127,8 @@ tr and attempt to use % values for the td.
           AppDev,
           Amazon Web Services (AWS),
           Argo CD (OpenShift GitOps),
+          HashiCorp Terraform,
+          HashiCorp Vault,
           Helm,
           Red Hat ACM,
           Red Hat ACS,
@@ -136,7 +136,7 @@ tr and attempt to use % values for the td.
           and Red Hat SSO (Keycloak)
         </li>
         <br />
-        <li><strong>I don't know everything!</strong> My team works as a hive mind to fill gaps and validate edge cases. 💪
+        <li><strong>I don't know everything!</strong> I work with my team to fill experience gaps and validate edge cases. 💪
       </ul>
     </td>
     <td width="300px" valign="middle" align="center">
@@ -167,7 +167,7 @@ tr and attempt to use % values for the td.
         <li><a href="https://www.credly.com/badges/cce07910-a6bf-425c-ac40-422e9eadc537">Red Hat Certified System Administrator (RHCSA)</a></li>
       </ul>
       <br />
-      (Some of these are expired, but I want to renew them. 🥲)
+      (Pretty much all of these expired...  🥲. I want to renew them.)
     </td>
     <td width="300px" valign="middle" align="center">
       <img alt="Meme picturing Dory from Finding Nemo with the text: 'Just Keep Learning'" src="pics/learning.png" width="200px" />
@@ -187,8 +187,8 @@ tr and attempt to use % values for the td.
           Close enough to make a day trip for meetings 🤝, meals 🍜, or beers 🍺.
           <ul>
             <li>45 Minutes from <strong>Fredrick, MD</strong></li>
-            <li>45 Minutes from <strong>Leesburg, VA</strong></li>
-            <li>1 hour, 30 minutes from <strong>Washington D.C.</strong></li>
+            <li>1 hour from <strong>Leesburg, VA</strong></li>
+            <li>1 hour, 45 minutes from <strong>Washington D.C.</strong></li>
           </ul>
         </li>
       </ul>
@@ -209,10 +209,10 @@ tr and attempt to use % values for the td.
         <li><strong>Eastern Time Zone (EST/EDT)</strong></li>
         <li>I try to schedule all meetings between <strong>9 AM - 4 PM ET</strong>.</li>
         <ul>
-          <li><strong>External clients:</strong> IBM won't let me share my calendar. I'll post my free times in a chat message or email.</li>
-          <li><strong>IBM Internal:</strong> I keep my Outlook calendar up to date. If you see a free spot - grab it!</li>
+          <li>I manage multiple calendars</li>
+          <li>I try to keep them up to date but sometimes events don't get synced.</li>
+          <li><strong>If you see a free spot on my calendar- grab it!</strong></li>
         </ul>
-        <li>I'm usually split ~16 hours per week between two clients. I do my best to accommodate schedules!</li>
         <li>If I email or message you outside of your working hours, please don’t feel obligated to reply right away!</li>
       </ul>
     </td>
@@ -282,12 +282,12 @@ tr and attempt to use % values for the td.
     <td width="510px">
       <h1 id="stuff-im-into">Stuff I’m Into</h1>
       <ul>
+        <li>Astrophotography 🌠</li>
         <li>Formula 1 🏎️</li>
         <li>Golf 🏌🏻 and Disc Golf 🥏</li>
         <li>Homelab 🔌</li>
         <li>Mechanical Keyboards ⌨️</li>
         <li>Music (I play guitar 🎸 and drums 🥁)</li>
-        <li>Open Source Software 🧑‍💻</li>
         <li>Smoking Food (and grilling food too!) 👨‍🍳</li>
         <li>Snowboarding 🏂</li>
         <li>Weightlifting 🏋🏻</li>
@@ -301,6 +301,7 @@ tr and attempt to use % values for the td.
 
 ---
 
+<!-- Removing slide for now. I started doing astrophotography, so... 😃
 <table align="center">
   <tr height="500px">
     <td width="340px">
@@ -335,6 +336,7 @@ tr and attempt to use % values for the td.
 </table>
 
 ---
+-->
 
 <table align="center">
   <tr height="500px">
@@ -345,7 +347,7 @@ tr and attempt to use % values for the td.
       </ul>
     </td>
     <td width="340px">
-      <img alt="Ryan standing next to a large photo of Thomas Jefferson" src="pics/washington.jpg" />
+      <img alt="Ryan standing next to a large photo of Thomas Jefferson" src="pics/jefferson.jpg" />
     </td>
   </tr>
 </table>
