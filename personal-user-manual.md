@@ -69,7 +69,7 @@ tr and attempt to use % values for the td.
 <table align="center">
   <tr height="500px">
     <td width="340px">
-      <img alt="Family Christmas photo of Ryan with his wife and son" src="pics/family.jpg" />
+      <img alt="Photo of Ryan with his wife and 2 kids" src="pics/family.jpg" />
     </td>
     <td width="510px">
       <h1 id="ryan-miller">Ryan Miller</h1>
@@ -80,6 +80,7 @@ tr and attempt to use % values for the td.
         <li>2 dogs 🐶 🐶</li>
         <li>GitHub: <a href="https://github.com/RyanMillerC">@RyanMillerC</a></li>
         <li>I’m on <a href="https://www.linkedin.com/in/millerryanc">LinkedIn</a></li>
+        <li>(I wear Crocs 🐊)</li>
       </ul>
     </td>
   </tr>
@@ -347,7 +348,7 @@ tr and attempt to use % values for the td.
       </ul>
     </td>
     <td width="340px">
-      <img alt="Ryan standing next to a large photo of Thomas Jefferson" src="pics/jefferson.jpg" />
+      <img alt="Photo of Ryan and his family" src="pics/finale.jpg" />
     </td>
   </tr>
 </table>
