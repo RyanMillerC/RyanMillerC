@@ -77,7 +77,7 @@ tr and attempt to use % values for the td.
         <li>2 dogs 🐶 🐶</li>
         <li>GitHub: <a href="https://github.com/RyanMillerC">@RyanMillerC</a></li>
         <li>I’m on <a href="https://www.linkedin.com/in/millerryanc">LinkedIn</a></li>
-        <li>(I wear Crocs 🐊)</li>
+        <li>(I wear Crocs 🐊 ➡️)</li>
       </ul>
     </td>
     <td width="340px">
