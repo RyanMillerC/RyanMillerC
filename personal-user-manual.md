@@ -21,9 +21,9 @@ tr and attempt to use % values for the td.
 ---
 
 <div align="center">
-  <b>Reads best on desktop or mobile landscape. ⤵️</b>
+  <b> ⤵️ ⤵️ Mobile? Flip your phone. ⤵️ ⤵️</b>
   <br />
-  (This was originally a slide deck that was converted to save bandwidth. It renders weird on small screens.)
+  (This document was converted from a slide deck converted to save bandwidth. It renders weird on small screens.)
 </div>
 
 ---
@@ -54,7 +54,7 @@ tr and attempt to use % values for the td.
 <table align="center">
   <tr height="500px">
     <td width="850px">
-      <h1 id="table-of-contents">Table of Contents</h1>
+      <h1 id="table-of-contents">Table of Contents 🧭</h1>
       <ul>
         <li><a href="#ryan-miller">Me! 🧑‍💻</a></li>
         <li><a href="#location">Logistics 🌎</a></li>
@@ -69,7 +69,7 @@ tr and attempt to use % values for the td.
 <table align="center">
   <tr height="500px">
     <td width="510px">
-      <h1 id="ryan-miller">Ryan Miller</h1>
+      <h1 id="ryan-miller">Ryan Miller 🧍🏻</h1>
       <ul>
         <li>30s</li>
         <li>Married 👩‍❤️‍👨</li>
@@ -91,7 +91,7 @@ tr and attempt to use % values for the td.
 <table align="center">
   <tr height="500px">
     <td width="850px">
-      <h1 id="work-experience">Professional Experience</h1>
+      <h1 id="work-experience">Professional Experience 💼</h1>
       <ul>
         <!-- <li><strong>Senior Resident Services Architect (RSA)</strong> @ HashiCorp, an IBM Company</li> -->
         <li>10+ years professional experience</li>
@@ -109,7 +109,7 @@ tr and attempt to use % values for the td.
 <table align="center">
   <tr height="500px">
     <td width="550px">
-      <h1 id="technical-experience">Technical Experience</h1>
+      <h1 id="technical-experience">Technical Experience 👨🏻‍💻</h1>
       <ul>
         <li>
           <strong>Subject Matter Expert</strong> in
@@ -137,7 +137,7 @@ tr and attempt to use % values for the td.
           and Red Hat SSO (Keycloak)
         </li>
         <br />
-        <li><strong>I don't know everything!</strong> I work with my team to fill experience gaps and validate edge cases. 💪
+        <li><strong>I don't know everything!</strong> I work with my team to fill experience gaps and validate edge cases.
       </ul>
     </td>
     <td width="300px" valign="middle" align="center">
@@ -151,7 +151,7 @@ tr and attempt to use % values for the td.
 <table align="center">
   <tr height="500px">
     <td width="550px">
-      <h1 id="certifications">Certifications</h1>
+      <h1 id="certifications">Certifications 🎓</h1>
       <ul>
         <li><a href="https://www.credly.com/badges/a2465e45-c128-4a74-b16b-fc0fcfefade4">AWS Certified Solutions Architect - Associate</a></li>
         <li><a href="https://www.credly.com/badges/bdcebd68-0347-4927-993a-2829a50b6e0b">CompTIA Security+</a></li>
@@ -181,7 +181,7 @@ tr and attempt to use % values for the td.
 <table align="center">
   <tr height="500px">
     <td width="550px">
-      <h1 id="location">Location</h1>
+      <h1 id="location">Location 🗺️</h1>
       <ul>
         <li>Remote, located in West Virginia (WV)</li>
         <li>
@@ -205,7 +205,7 @@ tr and attempt to use % values for the td.
 <table align="center">
   <tr height="500px">
     <td width="550px">
-      <h1 id="scheduling-and-meetings">Scheduling and Meetings</h1>
+      <h1 id="scheduling-and-meetings">Scheduling and Meetings 🗓️</h1>
       <ul>
         <li><strong>Eastern Time Zone (EST/EDT)</strong></li>
         <li>I try to schedule all meetings between <strong>9 AM - 4 PM ET</strong>.</li>
@@ -228,7 +228,7 @@ tr and attempt to use % values for the td.
 <table align="center">
   <tr height="500px">
     <td width="510px">
-      <h1 id="random-fun-facts">(Random) Fun Facts!</h1>
+      <h1 id="random-fun-facts">(Random) Fun Facts! 🤪</h1>
       <ul>
         <li>Wear fun tee shirts everyday ➡️️️</li>
         <li>Love Mexican food 🌮</li>
@@ -248,7 +248,7 @@ tr and attempt to use % values for the td.
 <table align="center">
   <tr height="500px">
     <td width="850px">
-      <h1 id="cool-tech-stuff-ive-done">Cool Tech Stuff I’ve Done!</h1>
+      <h1 id="cool-tech-stuff-ive-done">Cool Tech Stuff I’ve Done! 🚀</h1>
       <ul>
         <li>
           Built out an iPad app and backend for U.S. Coast Guard vessel inspections
@@ -281,7 +281,7 @@ tr and attempt to use % values for the td.
 <table align="center">
   <tr height="500px">
     <td width="510px">
-      <h1 id="stuff-im-into">Stuff I’m Into</h1>
+      <h1 id="stuff-im-into">Stuff I’m Into 🔥</h1>
       <ul>
         <li>Astrophotography 🌠</li>
         <li>Formula 1 🏎️</li>
@@ -342,7 +342,7 @@ tr and attempt to use % values for the td.
 <table align="center">
   <tr height="500px">
     <td width="510px">
-      <h1 id="in-conclusion">In Conclusion</h1>
+      <h1 id="in-conclusion">In Conclusion 🎬<h1>
       <ul>
         <li>I look forward to working with you!</li>
       </ul>
