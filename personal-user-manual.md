@@ -68,9 +68,6 @@ tr and attempt to use % values for the td.
 
 <table align="center">
   <tr height="500px">
-    <td width="340px">
-      <img alt="Photo of Ryan with his wife and 2 kids" src="pics/family.jpg" />
-    </td>
     <td width="510px">
       <h1 id="ryan-miller">Ryan Miller</h1>
       <ul>
@@ -82,6 +79,9 @@ tr and attempt to use % values for the td.
         <li>I’m on <a href="https://www.linkedin.com/in/millerryanc">LinkedIn</a></li>
         <li>(I wear Crocs 🐊)</li>
       </ul>
+    </td>
+    <td width="340px">
+      <img alt="Photo of Ryan with his wife and 2 kids" src="pics/family.jpg" />
     </td>
   </tr>
 </table>
