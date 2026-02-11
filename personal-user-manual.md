@@ -348,7 +348,7 @@ tr and attempt to use % values for the td.
       </ul>
     </td>
     <td width="340px">
-      <img alt="Photo of Ryan and his family" src="pics/finale.jpg" />
+      <img alt="Photo of Ryan and his family" src="pics/finale.png" />
     </td>
   </tr>
 </table>
