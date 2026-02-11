@@ -215,7 +215,7 @@ tr and attempt to use % values for the td.
       <h1 id="random-fun-facts">(Random) Fun Facts! 🤪</h1>
       <ul>
         <li>I wear fun tee shirts everyday ➡️️️</li>
-        <li>I also wear Crocs 🐊 (See slide [#3](#ryan-miller))</li>
+        <li>I also wear Crocs 🐊 (See <a href="#ryan-miller">slide #3</a>)</li>
         <li>I love Mexican food 🌮</li>
         <li>I have a tattoo of a Bash fork bomb <code>:(){ :|:&amp; };:</code></li>
         <li>I'm lucky 🍀 - Once won ~$50,000 in an office lottery pool</li>
