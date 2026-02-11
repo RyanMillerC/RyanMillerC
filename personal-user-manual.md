@@ -342,7 +342,7 @@ tr and attempt to use % values for the td.
 <table align="center">
   <tr height="500px">
     <td width="510px">
-      <h1 id="in-conclusion">In Conclusion 🎬<h1>
+      <h1 id="in-conclusion">In Conclusion 🎬</h1>
       <ul>
         <li>I look forward to working with you!</li>
       </ul>
