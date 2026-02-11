@@ -21,12 +21,13 @@ tr and attempt to use % values for the td.
 ---
 
 <div align="center">
-  <b> ⤵️ ⤵️ Mobile? Flip your phone. ⤵️ ⤵️</b>
-  <br />
+  <h3> ⤵️ ⤵️ Mobile? Flip your phone landscape. ⤵️ ⤵️</h3>
   (This document was converted from a slide deck converted to save bandwidth. It renders weird on small screens.)
 </div>
 
 ---
+
+<br />
 
 <table align="center">
   <tr height="500px">
@@ -49,8 +50,6 @@ tr and attempt to use % values for the td.
   </tr>
 </table>
 
----
-
 <table align="center">
   <tr height="500px">
     <td width="850px">
@@ -63,8 +62,6 @@ tr and attempt to use % values for the td.
     </td>
   </tr>
 </table>
-
----
 
 <table align="center">
   <tr height="500px">
@@ -86,8 +83,6 @@ tr and attempt to use % values for the td.
   </tr>
 </table>
 
----
-
 <table align="center">
   <tr height="500px">
     <td width="850px">
@@ -103,8 +98,6 @@ tr and attempt to use % values for the td.
     </td>
   </tr>
 </table>
-
----
 
 <table align="center">
   <tr height="500px">
@@ -146,8 +139,6 @@ tr and attempt to use % values for the td.
   </tr>
 </table>
 
----
-
 <table align="center">
   <tr height="500px">
     <td width="550px">
@@ -176,8 +167,6 @@ tr and attempt to use % values for the td.
   </tr>
 </table>
 
----
-
 <table align="center">
   <tr height="500px">
     <td width="550px">
@@ -200,8 +189,6 @@ tr and attempt to use % values for the td.
   </tr>
 </table>
 
----
-
 <table align="center">
   <tr height="500px">
     <td width="550px">
@@ -223,8 +210,6 @@ tr and attempt to use % values for the td.
   </tr>
 </table>
 
----
-
 <table align="center">
   <tr height="500px">
     <td width="510px">
@@ -242,8 +227,6 @@ tr and attempt to use % values for the td.
     </td>
   </tr>
 </table>
-
----
 
 <table align="center">
   <tr height="500px">
@@ -276,8 +259,6 @@ tr and attempt to use % values for the td.
   </tr>
 </table>
 
----
-
 <table align="center">
   <tr height="500px">
     <td width="510px">
@@ -299,8 +280,6 @@ tr and attempt to use % values for the td.
     </td>
   </tr>
 </table>
-
----
 
 <!-- Removing slide for now. I started doing astrophotography, so... 😃
 <table align="center">
@@ -335,8 +314,6 @@ tr and attempt to use % values for the td.
     </td>
   </tr>
 </table>
-
----
 -->
 
 <table align="center">
