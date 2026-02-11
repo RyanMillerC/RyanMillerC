@@ -74,7 +74,6 @@ tr and attempt to use % values for the td.
         <li>2 dogs 🐶 🐶</li>
         <li>GitHub: <a href="https://github.com/RyanMillerC">@RyanMillerC</a></li>
         <li>I’m on <a href="https://www.linkedin.com/in/millerryanc">LinkedIn</a></li>
-        <li>(I wear Crocs 🐊 ➡️)</li>
       </ul>
     </td>
     <td width="340px">
@@ -215,11 +214,12 @@ tr and attempt to use % values for the td.
     <td width="510px">
       <h1 id="random-fun-facts">(Random) Fun Facts! 🤪</h1>
       <ul>
-        <li>Wear fun tee shirts everyday ➡️️️</li>
-        <li>Love Mexican food 🌮</li>
-        <li>Have a tattoo of a Bash fork bomb <code>:(){ :|:&amp; };:</code></li>
+        <li>I wear fun tee shirts everyday ➡️️️</li>
+        <li>I also wear Crocs 🐊 (See slide [#3](#ryan-miller))</li>
+        <li>I love Mexican food 🌮</li>
+        <li>I have a tattoo of a Bash fork bomb <code>:(){ :|:&amp; };:</code></li>
         <li>I'm lucky 🍀 - Once won ~$50,000 in an office lottery pool</li>
-        <li>Watched <em>The Office (US)</em> TV series at least 3 times through</li>
+        <li>I've watched <em>The Office (US)</em> TV series at least 3 times through</li>
       </ul>
     </td>
     <td width="340px">
