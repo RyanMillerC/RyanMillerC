@@ -24,6 +24,7 @@
 
 ## 👨🏻‍💻 About Ryan
 
+* **Owner and Principal Architect** @ [Automated Scalable Solutions](https://automatedscalablesolutions.com)
 * 10+ years professional experience
 * 5+ years experience in leadership roles
 * Led IT service delivery across Aeronautics, Commercial, Financial, Healthcare, and Public Sector clients
