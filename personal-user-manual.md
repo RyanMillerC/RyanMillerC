@@ -22,7 +22,7 @@ tr and attempt to use % values for the td.
 
 <div align="center">
   <h3> ⤵️ ⤵️ Mobile? Flip your phone landscape. ⤵️ ⤵️</h3>
-  (This document was converted from a slide deck converted to save bandwidth. It renders weird on small screens.)
+  (This was a slide deck. It renders weird on small screens.)
 </div>
 
 ---
@@ -214,6 +214,7 @@ tr and attempt to use % values for the td.
     <td width="510px">
       <h1 id="random-fun-facts">(Random) Fun Facts! 🤪</h1>
       <ul>
+        <li>I take <a href="https://ryantakespicturesofspace.com">pictures of space!</a> ✨</li>
         <li>I wear fun tee shirts everyday ➡️️️</li>
         <li>I also wear Crocs 🐊 (See <a href="#ryan-miller">slide #3</a>)</li>
         <li>I love Mexican food 🌮</li>
